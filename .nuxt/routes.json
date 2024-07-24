@@ -1,0 +1,88 @@
+[
+  {
+    "name": "assets",
+    "path": "/assets",
+    "component": "/home/dominique/VallureCosmetics/pages/assets.vue",
+    "chunkName": "pages/assets",
+    "_name": "_685ffab2"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/dominique/VallureCosmetics/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_7c3ed834"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "/home/dominique/VallureCosmetics/pages/Login.vue",
+    "chunkName": "pages/Login",
+    "_name": "_13599dd5"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/home/dominique/VallureCosmetics/pages/profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_3b2cab35"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/home/dominique/VallureCosmetics/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7e4bdac7"
+  },
+  {
+    "path": "/Setting",
+    "component": "/home/dominique/VallureCosmetics/pages/Setting.vue",
+    "chunkName": "pages/Setting",
+    "children": [
+      {
+        "name": "Setting",
+        "path": "",
+        "component": "/home/dominique/VallureCosmetics/pages/Setting/index.vue",
+        "chunkName": "pages/Setting/index",
+        "_name": "_8fb0d482"
+      },
+      {
+        "name": "Setting-account",
+        "path": "account",
+        "component": "/home/dominique/VallureCosmetics/pages/Setting/account/index.vue",
+        "chunkName": "pages/Setting/account/index",
+        "_name": "_5a48a946"
+      }
+    ],
+    "_name": "_e693a788"
+  },
+  {
+    "path": "/shop",
+    "component": "/home/dominique/VallureCosmetics/pages/shop.vue",
+    "chunkName": "pages/shop",
+    "children": [
+      {
+        "name": "shop",
+        "path": "",
+        "component": "/home/dominique/VallureCosmetics/pages/shop/index.vue",
+        "chunkName": "pages/shop/index",
+        "_name": "_14a712c6"
+      }
+    ],
+    "_name": "_04348b9a"
+  },
+  {
+    "name": "voxcoin",
+    "path": "/voxcoin",
+    "component": "/home/dominique/VallureCosmetics/pages/voxcoin.vue",
+    "chunkName": "pages/voxcoin",
+    "_name": "_133695fc"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/dominique/VallureCosmetics/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5b804a44"
+  }
+]
