@@ -36,15 +36,16 @@
 
     <v-row>
       <v-spacer></v-spacer>
-      <v-card-title class="title3">Welcome To V'S Allure  
-      </v-card-title>
+      <v-card-title class="title3">WELCOME TO V'S ALLURE</v-card-title>
       <v-spacer></v-spacer>
     </v-row>
     <v-row>
       <v-spacer></v-spacer>
-      <v-card-subtitle class="title4">Unveil Your Radiance,Embrace Your Allure</v-card-subtitle>
+      <v-card-subtitle class="title4">Unveil your radiance, embrace your allure</v-card-subtitle>
       <v-spacer></v-spacer>
     </v-row>
+    <v-spacer></v-spacer>
+
     <v-divider thickness="70"></v-divider>
 
   </v-col>
@@ -101,12 +102,11 @@ export default {
     margin-right: 8%;
     font-size: 45px;
     line-height: 72px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Camila', sans-serif;
   }
   .title4 {
     font-size: 45px;
-    line-height: 45px;
     margin-left: 2%;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Exo Slab Pro', serif;
   }
 </style>
